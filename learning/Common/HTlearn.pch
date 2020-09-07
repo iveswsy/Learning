@@ -1,0 +1,21 @@
+//
+//  HTlearn.pch
+//  learning
+//
+//  Created by ask123 on 2020/7/20.
+//  Copyright © 2020 ives. All rights reserved.
+//
+
+#ifndef HTlearn_pch
+#define HTlearn_pch
+
+#define JDAppKey @"14a27c44d7199cc51a2e27c16cc3dd2d"
+#define  SCREENW  [[UIScreen mainScreen] bounds].size.width
+#define  SCREENH  [[UIScreen mainScreen] bounds].size.height
+
+#import "MJExtension.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HTlearn_pch */
